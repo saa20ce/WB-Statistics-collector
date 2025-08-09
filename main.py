@@ -229,4 +229,6 @@ python wb_collect_v2.py --sections sales returns commissions --format parquet --
 
 # 2) с явными датами и CSV
 python wb_collect_v2.py --api-key "ваш_ключ" --from 2025-05-10 --to 2025-08-08 --format csv
+
 """
+
